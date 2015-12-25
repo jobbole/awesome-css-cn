@@ -10,8 +10,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 基于 awesome-css 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
-  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
+  - 《[BEM：前端命名方法论](http://hao.jobbole.com/bem/)》
+  - 《[Sass：CSS预处理器](http://hao.jobbole.com/sass-css/)》
   - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
 
 * * *
@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：iLeo
+- 贡献者：iLeo、aoi
 
 注：名单不分排名，不定期补充更新
 
