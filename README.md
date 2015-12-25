@@ -296,3 +296,13 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c688tqj2046046mx8.jpg" width=150 height=150>
 * UI设计达人：分享 UI 设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww4.sinaimg.cn/mw690/bfdcef89gw1evuvyehtx4j2076076q3e.jpg" width=150 height=150>
 * 网页设计精选：分享网页设计精选文章、案例、行业趋势、课程和书籍。<br><img src="http://ww2.sinaimg.cn/mw690/bfdcef89gw1evuvyhsikmj2076076dgb.jpg" width=150 height=150>
+
+
+<h3 id="blogs">博客</h3>
+<h4>中文博客</h4>
+
+* 待补充
+
+<h4>英文博客</h4>
+
+* 待补充
