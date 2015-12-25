@@ -56,7 +56,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
     *   [有影响力的书](#influential-books)
     *   [微博、微信公众号](#weibo-weixin)
     *   [知名网站](#websites)
-    *   博客](blogs))
+    *   [博客](#blogs)
 
 ## 预处理器
 
