@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：iLeo、aoi
+- 贡献者：iLeo、aoi、[tzstone](http://www.jobbole.com/members/tzstone/)
 
 注：名单不分排名，不定期补充更新
 
@@ -97,7 +97,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 ## CSS结构
 
 *   [RSCSS](https://github.com/rstacruz/rscss) - CSS样式结构的合理标准
-*   [ITCSS](https://twitter.com/itcss_io) - 用于大型UI项目的稳定、可扩展、可控制的CSS架构
+*   [ITCSS](http://hao.jobbole.com/itcss/) - 用于大型UI项目的稳定、可扩展、可控制的CSS架构。[官网](https://twitter.com/itcss_io)
 
 ## CSS标准化
 
