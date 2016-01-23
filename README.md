@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：iLeo、[伯小乐](http://www.jobbole.com/members/aoi/)、[tzstone](http://www.jobbole.com/members/tzstone/)
+- 贡献者：iLeo、[伯小乐](http://www.jobbole.com/members/aoi/)、[tzstone](http://www.jobbole.com/members/tzstone/)、[llhua2329](https://github.com/llhua2329)
 
 注：名单不分排名，不定期补充更新
 
@@ -76,7 +76,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 ## 框架
 
 *   [960 Grid System](http://960.gs/) - 简化了web开发工作流程
-*   [Blueprint](http://www.blueprintcss.org/) - 这个CSS框架为你提供易用的栅格系统、符合直觉的排版功能、有用的插件以及可打印的样式
+*   [Blueprint](http://hao.jobbole.com/blueprintcss/)：这个CSS框架为你提供易用的栅格系统、符合直觉的排版功能、有用的插件以及可打印的样式 [官网](http://www.blueprintcss.org/)
 *   [Bootstrap](http://hao.jobbole.com/bootstrap/)：最流行的HTML、CSS、JS框架 [官网](http://getbootstrap.com/)
 *   [inuit.css](http://inuitcss.com/) - 强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架
 *   [Foundation](http://foundation.zurb.com/) - 一个高级响应式前端框架
