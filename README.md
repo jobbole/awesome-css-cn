@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：iLeo、[伯小乐](http://www.jobbole.com/members/aoi/)、[tzstone](http://www.jobbole.com/members/tzstone/)、[llhua2329](https://github.com/llhua2329)
+- 贡献者：iLeo、[伯小乐](http://www.jobbole.com/members/aoi/)、[tzstone](http://www.jobbole.com/members/tzstone/)、[llhua2329](https://github.com/llhua2329)、[凝枫](http://hao.jobbole.com/author/yangxy81118/)
 
 注：名单不分排名，不定期补充更新
 
@@ -84,7 +84,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Materialize](http://materializecss.com/) - 基于Material Design的现代响应式前端框架。
 *   [Pure.css](http://purecss.io/) - 一套可用于所有web项目的小型响应式CSS模块
 *   [Semantic UI](http://semantic-ui.com/) - 使用人性化html的强力框架。
-*   [Skeleton](http://getskeleton.com/) - 一个超简单的响应式模板。
+*   [Skeleton](http://hao.jobbole.com/skeleton/)：一个超简单的响应式模板。[官网](http://getskeleton.com/) 
 *   [UIkit](http://getuikit.com/) - 适用于手机、平板以及电脑端的栅格系统。
 
 ## 工具集
