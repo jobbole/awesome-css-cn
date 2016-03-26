@@ -80,10 +80,10 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Bootstrap](http://hao.jobbole.com/bootstrap/)：最流行的HTML、CSS、JS框架 [官网](http://getbootstrap.com/)
 *   [inuit.css](http://inuitcss.com/) - 强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架
 *   [Foundation](http://foundation.zurb.com/) - 一个高级响应式前端框架
-*   [Material Design Lite](http://www.getmdl.io/started/) - 很好的用于制作Material Design风格网站的框架
-*   [Materialize](http://materializecss.com/) - 基于Material Design的现代响应式前端框架。
-*   [Pure.css](http://purecss.io/) - 一套可用于所有web项目的小型响应式CSS模块
-*   [Semantic UI](http://semantic-ui.com/) - 使用人性化html的强力框架。
+*   [Material Design Lite](http://hao.jobbole.com/material-design-lite/)：很好的用于制作Material Design风格网站的框架。[官网](http://www.getmdl.io/started/)
+*   [Materialize](http://hao.jobbole.com/materialize/)：基于Material Design的现代响应式前端框架。[官网](http://materializecss.com/)
+*   [Pure.css](http://hao.jobbole.com/pure-css/)：一套可用于所有web项目的小型响应式CSS模块。[官网](http://purecss.io/)
+*   [Semantic UI](http://hao.jobbole.com/semantic-ui/)：使用人性化html的强力框架。[官网](http://semantic-ui.com/) 
 *   [Skeleton](http://hao.jobbole.com/skeleton/)：一个超简单的响应式模板。[官网](http://getskeleton.com/) 
 *   [UIkit](http://getuikit.com/) - 适用于手机、平板以及电脑端的栅格系统。
 
