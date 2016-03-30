@@ -64,7 +64,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 *   [GCSS](https://github.com/yosssi/gcss) - 一个用GO语言编写的CSS预处理器。
 *   [LESS](http://lesscss.org/) - 向下兼容CSS并为当前的CSS增加额外的功能。
-*   [Myth](https://github.com/segmentio/myth) - 只用写纯CSS而不用担心浏览器加载缓慢。
+*   [Myth](http://hao.jobbole.com/myth/)：只用写纯CSS而不用担心浏览器加载缓慢。[官网](https://github.com/segmentio/myth)
 *   [PCSS](https://github.com/senko/pcss) - 一个用Python语言编写的CSS预处理器。
 *   [PostCSS](https://github.com/postcss/postcss) - 通过JS插件来转换CSS
 *   [Sass](http://sass-lang.com/) - 成熟、稳定且强力的专业CSS扩展语言
