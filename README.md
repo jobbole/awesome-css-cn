@@ -78,7 +78,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [960 Grid System](http://hao.jobbole.com/960-grid-system/)：简化了web开发工作流程。[官网](http://960.gs/)
 *   [Blueprint](http://hao.jobbole.com/blueprintcss/)：这个CSS框架为你提供易用的栅格系统、符合直觉的排版功能、有用的插件以及可打印的样式 [官网](http://www.blueprintcss.org/)
 *   [Bootstrap](http://hao.jobbole.com/bootstrap/)：最流行的HTML、CSS、JS框架 [官网](http://getbootstrap.com/)
-*   [inuit.css](http://inuitcss.com/) - 强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架
+*   [inuit.css](http://hao.jobbole.com/inuit-css/) ：强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架 [官网](http://inuitcss.com/)
 *   [Foundation](http://foundation.zurb.com/) - 一个高级响应式前端框架
 *   [Material Design Lite](http://hao.jobbole.com/material-design-lite/)：很好的用于制作Material Design风格网站的框架。[官网](http://www.getmdl.io/started/)
 *   [Materialize](http://hao.jobbole.com/materialize/)：基于Material Design的现代响应式前端框架。[官网](http://materializecss.com/)
