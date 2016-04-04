@@ -74,9 +74,9 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Myth](http://hao.jobbole.com/myth/)：只用写纯CSS而不用担心浏览器加载缓慢。[官网](https://github.com/segmentio/myth)
 *   PCSS：一个用Python语言编写的CSS预处理器。[官网](https://github.com/senko/pcss)
 *   [PostCSS](http://hao.jobbole.com/postcss/)：通过JS插件来转换CSS。[PostCSS](https://github.com/postcss/postcss)
-*   Sass：成熟、稳定且强力的专业CSS扩展语言。[官网](http://sass-lang.com/)
+*   [Sass](http://hao.jobbole.com/sass/)：成熟、稳定且强力的专业CSS扩展语言。[官网](http://sass-lang.com/)
 *   [Stylus](http://hao.jobbole.com/stylus/)：用于nodejs的直观、强健、极具特色的CSS语言。[官网](http://learnboost.github.io/stylus/)
-*   YACP：另一种CSS预处理器。[官网](https://github.com/morishitter/YACP)
+*   [YACP](http://hao.jobbole.com/yacp/)：另一种CSS预处理器。[官网](https://github.com/morishitter/YACP)
 
 这里[有一个 CSS 预处理器汇总](https://github.com/showcases/css-preprocessors)。
 
