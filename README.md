@@ -92,7 +92,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Pure.css](http://hao.jobbole.com/pure-css/)：一套可用于所有web项目的小型响应式CSS模块。[官网](http://purecss.io/)
 *   [Semantic UI](http://hao.jobbole.com/semantic-ui/)：使用人性化html的强力框架。[官网](http://semantic-ui.com/) 
 *   [Skeleton](http://hao.jobbole.com/skeleton/)：一个超简单的响应式模板。[官网](http://getskeleton.com/) 
-*   UIkit：适用于手机、平板以及电脑端的栅格系统。[官网](http://getuikit.com/)
+*   [UIkit](http://hao.jobbole.com/uikit/)：适用于手机、平板以及电脑端的栅格系统。[官网](http://getuikit.com/)
 
 ## 工具集
 
