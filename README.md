@@ -134,7 +134,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Mark Otto 编写的风格指南，受「GitHub 风格」和「编写符合语言习惯的 CSS」所激发](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 *   [ThinkUp 的 CSS 风格指导](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)，作者ThinkUp
 *   [Google 的 HTML/CSS 风格指导](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-*   [WordPress 的 CSS 代码标准](https://make.wordpress.org/core/handbook/coding-standards/css/)
+*   [WordPress的CSS代码标准](http://hao.jobbole.com/wordpress-css-coding-standards/)：[官网](https://make.wordpress.org/core/handbook/coding-standards/css/)
 
 ## 风格指导
 
