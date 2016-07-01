@@ -131,16 +131,16 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 ## 大型网站的CSS开发
 
-*   [Github 的 CSS方案](http://markdotto.com/2014/07/23/githubs-css/) by [Mark Otto](https://twitter.com/mdo).
-*   [CodePen 的 CSS 方案](http://codepen.io/chriscoyier/blog/codepens-css) by [Chris Coyier](https://twitter.com/chriscoyier).
-*   [Lonely Planet 的 CSS 方案](http://ianfeather.co.uk/css-at-lonely-planet/) by [Ian Feather](https://twitter.com/ianfeather).
-*   [Groupon 的 CSS方案](http://mikeaparicio.com/2014/08/10/css-at-groupon/) by [Mike Aparicio](https://twitter.com/peruvianidol).
-*   [Buffer 的 CSS 方案](http://blog.brianlovin.com/buffers-css/) by [Brian Lovin](https://twitter.com/brian_lovin).
-*   [HOOTSUITE 的 CSS 方案](http://code.hootsuite.com/css-at-hootsuite/) by Steve Mynett.
-*   [我们是如何精简 Trello 的 CSS 架构的](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace).
-*   [Bugsnag 的 CSS 架构](https://bugsnag.com/blog/bugsnags-css-architecture) by [Max Luster](https://twitter.com/maxluster).
-*   [Ghost 的 CSS 方案](http://dev.ghost.org/css-at-ghost/) by Paul Davis.
-*   [Medium 的 CSS 方案](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06) by [Jacob Thornton](https://twitter.com/fat).
+*   [Github的CSS方案]（http://hao.jobbole.com/htmlcss-code-guide-by-mark-otto/） by [Mark Otto](https://twitter.com/mdo)，[英文](http://markdotto.com/2014/07/23/githubs-css/)
+*   CodePen的CSS方案 by [Chris Coyier](https://twitter.com/chriscoyier)，[英文](http://codepen.io/chriscoyier/blog/codepens-css)
+*   Lonely Planet的CSS方案 by [Ian Feather](https://twitter.com/ianfeather)，[英文](http://ianfeather.co.uk/css-at-lonely-planet/)
+*   Groupon的CSS方案 by [Mike Aparicio](https://twitter.com/peruvianidol)，[英文](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
+*   Buffer的CSS方案 by [Brian Lovin](https://twitter.com/brian_lovin)，[英文](http://blog.brianlovin.com/buffers-css/)
+*   HOOTSUITE的CSS方案 by Steve Mynett，[英文](http://code.hootsuite.com/css-at-hootsuite/)
+*   我们是如何精简Trello的CSS架构 by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+*   Bugsnag的CSS架构 by [Max Luster](https://twitter.com/maxluster)，[英文](https://bugsnag.com/blog/bugsnags-css-architecture)
+*   Ghost的CSS方案 by Paul Davis，[英文](http://dev.ghost.org/css-at-ghost/)
+*   Medium的CSS方案 by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 ## 代码风格指导
 
