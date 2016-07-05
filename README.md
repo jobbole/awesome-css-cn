@@ -131,7 +131,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 ## 大型网站的CSS开发
 
-*   [Github的CSS方案]（http://hao.jobbole.com/htmlcss-code-guide-by-mark-otto/） by [Mark Otto](https://twitter.com/mdo)，[英文](http://markdotto.com/2014/07/23/githubs-css/)
+*   [Github的CSS方案](http://hao.jobbole.com/htmlcss-code-guide-by-mark-otto/） by [Mark Otto](https://twitter.com/mdo)，[英文](http://markdotto.com/2014/07/23/githubs-css/)
 *   CodePen的CSS方案 by [Chris Coyier](https://twitter.com/chriscoyier)，[英文](http://codepen.io/chriscoyier/blog/codepens-css)
 *   Lonely Planet的CSS方案 by [Ian Feather](https://twitter.com/ianfeather)，[英文](http://ianfeather.co.uk/css-at-lonely-planet/)
 *   Groupon的CSS方案 by [Mike Aparicio](https://twitter.com/peruvianidol)，[英文](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
@@ -140,7 +140,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   我们是如何精简Trello的CSS架构 by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
 *   Bugsnag的CSS架构 by [Max Luster](https://twitter.com/maxluster)，[英文](https://bugsnag.com/blog/bugsnags-css-architecture)
 *   Ghost的CSS方案 by Paul Davis，[英文](http://dev.ghost.org/css-at-ghost/)
-*   Medium的CSS方案 by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+*   [Medium的CSS方案](http://hao.jobbole.com/mediu-css/) by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 ## 代码风格指导
 
