@@ -137,7 +137,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   Groupon的CSS方案 by [Mike Aparicio](https://twitter.com/peruvianidol)，[英文](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
 *   Buffer的CSS方案 by [Brian Lovin](https://twitter.com/brian_lovin)，[英文](http://blog.brianlovin.com/buffers-css/)
 *   HOOTSUITE的CSS方案 by Steve Mynett，[英文](http://code.hootsuite.com/css-at-hootsuite/)
-*   我们是如何精简Trello的CSS架构 by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+*   [如何精简TrelloCSS架构](http://hao.jobbole.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
 *   Bugsnag的CSS架构 by [Max Luster](https://twitter.com/maxluster)，[英文](https://bugsnag.com/blog/bugsnags-css-architecture)
 *   Ghost的CSS方案 by Paul Davis，[英文](http://dev.ghost.org/css-at-ghost/)
 *   [Medium的CSS方案](http://hao.jobbole.com/mediu-css/) by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
