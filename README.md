@@ -165,17 +165,17 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 # 命名习惯和方式
 
-*   [Atomic OOBEMITSCSS](http://www.sitepoint.com/atomic-oobemitscss/)
-*   [BEM](https://en.bem.info/)
-*   [SMACSS](https://smacss.com/)
-*   [Point North](http://pointnorth.io/#base-browser-styling)
-*   [ITCSS](http://itcss.io/)
-*   [OOCSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
-*   [Title CSS](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
-*   [idiomatic-css](https://github.com/necolas/idiomatic-css)
-*   [Atomic Design](http://patternlab.io/resources.html)
-*   [SUIT CSS](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
-*   [Kickoff CSS](https://trykickoff.github.io/learn/css.html#namingscheme)
+*   Atomic OOBEMITSCSS：[官网](http://www.sitepoint.com/atomic-oobemitscss/)
+*   [BEM](http://hao.jobbole.com/css-naming-bem/)：[官网](https://en.bem.info/)
+*   SMACSS：[官网](https://smacss.com/)
+*   Point North：[官网](http://pointnorth.io/#base-browser-styling)
+*   ITCSS：[官网](http://itcss.io/)
+*   OOCSS：[官网](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
+*   Title CSS：[官网](http://www.sitepoint.com/title-css-simple-approach-css-class-naming/)
+*   idiomatic-css：[官网](https://github.com/necolas/idiomatic-css)
+*   Atomic Design：[官网](http://patternlab.io/resources.html)
+*   SUIT CSS：[官网](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md#u-utilityname)
+*   Kickoff CSS：[官网](https://trykickoff.github.io/learn/css.html#namingscheme)
 
 # 参考
 
