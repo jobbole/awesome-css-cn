@@ -9,10 +9,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-css 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
- ：《[BEM：前端命名方法论](http://hao.jobbole.com/bem/)》
- ：《[Sass：CSS预处理器](http://hao.jobbole.com/sass-css/)》
- ：《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+ ：《[BEM：前端命名方法论](http://hao.importnew.com/bem/)》
+ ：《[Sass：CSS预处理器](http://hao.importnew.com/sass-css/)》
+ ：《[YUI Compressor：JS/CSS压缩工具](http://hao.importnew.com/yui-compressor/)》
 
 * * *
 
@@ -45,7 +45,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
-- 贡献者：iLeo、[伯小乐](http://www.jobbole.com/members/aoi/)、[tzstone](http://www.jobbole.com/members/tzstone/)、[llhua2329](https://github.com/llhua2329)、[凝枫](http://hao.jobbole.com/author/yangxy81118/)
+- 贡献者：iLeo、[伯小乐](http://www.importnew.com/members/aoi/)、[tzstone](http://www.importnew.com/members/tzstone/)、[llhua2329](https://github.com/llhua2329)、[凝枫](http://hao.importnew.com/author/yangxy81118/)
 
 注：名单不分排名，不定期补充更新
 
@@ -57,7 +57,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/)
 
 * * * -->
 sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架、CSS结构、代码风格指南、命名习惯、播客、演讲视频、大网站的 CSS 开发经验等等。
@@ -87,28 +87,28 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 *   GCSS：一个用GO语言编写的CSS预处理器。[官网](https://github.com/yosssi/gcss)
 *   LESS：向下兼容CSS并为当前的CSS增加额外的功能。[官网](http://lesscss.org/)
-*   [Myth](http://hao.jobbole.com/myth/)：只用写纯CSS而不用担心浏览器加载缓慢。[官网](https://github.com/segmentio/myth)
+*   [Myth](http://hao.importnew.com/myth/)：只用写纯CSS而不用担心浏览器加载缓慢。[官网](https://github.com/segmentio/myth)
 *   PCSS：一个用Python语言编写的CSS预处理器。[官网](https://github.com/senko/pcss)
-*   [PostCSS](http://hao.jobbole.com/postcss/)：通过JS插件来转换CSS。[PostCSS](https://github.com/postcss/postcss)
-*   [Sass](http://hao.jobbole.com/sass/)：成熟、稳定且强力的专业CSS扩展语言。[官网](http://sass-lang.com/)
-*   [Stylus](http://hao.jobbole.com/stylus/)：用于nodejs的直观、强健、极具特色的CSS语言。[官网](http://learnboost.github.io/stylus/)
-*   [YACP](http://hao.jobbole.com/yacp/)：另一种CSS预处理器。[官网](https://github.com/morishitter/YACP)
+*   [PostCSS](http://hao.importnew.com/postcss/)：通过JS插件来转换CSS。[PostCSS](https://github.com/postcss/postcss)
+*   [Sass](http://hao.importnew.com/sass/)：成熟、稳定且强力的专业CSS扩展语言。[官网](http://sass-lang.com/)
+*   [Stylus](http://hao.importnew.com/stylus/)：用于nodejs的直观、强健、极具特色的CSS语言。[官网](http://learnboost.github.io/stylus/)
+*   [YACP](http://hao.importnew.com/yacp/)：另一种CSS预处理器。[官网](https://github.com/morishitter/YACP)
 
 这里[有一个 CSS 预处理器汇总](https://github.com/showcases/css-preprocessors)。
 
 ## 框架
 
-*   [960 Grid System](http://hao.jobbole.com/960-grid-system/)：简化了web开发工作流程。[官网](http://960.gs/)
-*   [Blueprint](http://hao.jobbole.com/blueprintcss/)：这个CSS框架为你提供易用的栅格系统、符合直觉的排版功能、有用的插件以及可打印的样式 [官网](http://www.blueprintcss.org/)
-*   [Bootstrap](http://hao.jobbole.com/bootstrap/)：最流行的HTML、CSS、JS框架 [官网](http://getbootstrap.com/)
-*   [inuit.css](http://hao.jobbole.com/inuit-css/) ：强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架 [官网](http://inuitcss.com/)
-*   [Foundation](http://hao.jobbole.com/foundation/)：一个高级响应式前端框架。[官网](http://foundation.zurb.com/)
-*   [Material Design Lite](http://hao.jobbole.com/material-design-lite/)：很好的用于制作Material Design风格网站的框架。[官网](http://www.getmdl.io/started/)
-*   [Materialize](http://hao.jobbole.com/materialize/)：基于Material Design的现代响应式前端框架。[官网](http://materializecss.com/)
-*   [Pure.css](http://hao.jobbole.com/pure-css/)：一套可用于所有web项目的小型响应式CSS模块。[官网](http://purecss.io/)
-*   [Semantic UI](http://hao.jobbole.com/semantic-ui/)：使用人性化html的强力框架。[官网](http://semantic-ui.com/) 
-*   [Skeleton](http://hao.jobbole.com/skeleton/)：一个超简单的响应式模板。[官网](http://getskeleton.com/) 
-*   [UIkit](http://hao.jobbole.com/uikit/)：适用于手机、平板以及电脑端的栅格系统。[官网](http://getuikit.com/)
+*   [960 Grid System](http://hao.importnew.com/960-grid-system/)：简化了web开发工作流程。[官网](http://960.gs/)
+*   [Blueprint](http://hao.importnew.com/blueprintcss/)：这个CSS框架为你提供易用的栅格系统、符合直觉的排版功能、有用的插件以及可打印的样式 [官网](http://www.blueprintcss.org/)
+*   [Bootstrap](http://hao.importnew.com/bootstrap/)：最流行的HTML、CSS、JS框架 [官网](http://getbootstrap.com/)
+*   [inuit.css](http://hao.importnew.com/inuit-css/) ：强力的、可扩展的、基于Sass的、采用BEM命名的面向对象CSS框架 [官网](http://inuitcss.com/)
+*   [Foundation](http://hao.importnew.com/foundation/)：一个高级响应式前端框架。[官网](http://foundation.zurb.com/)
+*   [Material Design Lite](http://hao.importnew.com/material-design-lite/)：很好的用于制作Material Design风格网站的框架。[官网](http://www.getmdl.io/started/)
+*   [Materialize](http://hao.importnew.com/materialize/)：基于Material Design的现代响应式前端框架。[官网](http://materializecss.com/)
+*   [Pure.css](http://hao.importnew.com/pure-css/)：一套可用于所有web项目的小型响应式CSS模块。[官网](http://purecss.io/)
+*   [Semantic UI](http://hao.importnew.com/semantic-ui/)：使用人性化html的强力框架。[官网](http://semantic-ui.com/) 
+*   [Skeleton](http://hao.importnew.com/skeleton/)：一个超简单的响应式模板。[官网](http://getskeleton.com/) 
+*   [UIkit](http://hao.importnew.com/uikit/)：适用于手机、平板以及电脑端的栅格系统。[官网](http://getuikit.com/)
 
 ## 工具集
 
@@ -131,16 +131,16 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 ## 大型网站的CSS开发
 
-*   [Github的CSS方案](http://hao.jobbole.com/htmlcss-code-guide-by-mark-otto/） by [Mark Otto](https://twitter.com/mdo)，[英文](http://markdotto.com/2014/07/23/githubs-css/)
+*   [Github的CSS方案](http://hao.importnew.com/htmlcss-code-guide-by-mark-otto/） by [Mark Otto](https://twitter.com/mdo)，[英文](http://markdotto.com/2014/07/23/githubs-css/)
 *   CodePen的CSS方案 by [Chris Coyier](https://twitter.com/chriscoyier)，[英文](http://codepen.io/chriscoyier/blog/codepens-css)
 *   Lonely Planet的CSS方案 by [Ian Feather](https://twitter.com/ianfeather)，[英文](http://ianfeather.co.uk/css-at-lonely-planet/)
 *   Groupon的CSS方案 by [Mike Aparicio](https://twitter.com/peruvianidol)，[英文](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
 *   Buffer的CSS方案 by [Brian Lovin](https://twitter.com/brian_lovin)，[英文](http://blog.brianlovin.com/buffers-css/)
 *   HOOTSUITE的CSS方案 by Steve Mynett，[英文](http://code.hootsuite.com/css-at-hootsuite/)
-*   [如何精简TrelloCSS架构](http://hao.jobbole.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
+*   [如何精简TrelloCSS架构](http://hao.importnew.com/refining-the-way-we-structure-our-css-at-trello/) by [Bobby Grace](https://twitter.com/bobbygrace)，[英文](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/)
 *   Bugsnag的CSS架构 by [Max Luster](https://twitter.com/maxluster)，[英文](https://bugsnag.com/blog/bugsnags-css-architecture)
 *   Ghost的CSS方案 by Paul Davis，[英文](http://dev.ghost.org/css-at-ghost/)
-*   [Medium的CSS方案](http://hao.jobbole.com/mediu-css/) by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+*   [Medium的CSS方案](http://hao.importnew.com/mediu-css/) by [Jacob Thornton](https://twitter.com/fat)，[英文](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
 
 ## 代码风格指导
 
@@ -150,7 +150,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 *   [Mark Otto 编写的风格指南，受「GitHub 风格」和「编写符合语言习惯的 CSS」所激发](http://codeguide.co/) by [Mark Otto](https://twitter.com/mdo).
 *   [ThinkUp 的 CSS 风格指导](https://github.com/ThinkUpLLC/ThinkUp/wiki/Code-Style-Guide:-CSS)，作者ThinkUp
 *   [Google 的 HTML/CSS 风格指导](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-*   [WordPress的CSS代码标准](http://hao.jobbole.com/wordpress-css-coding-standards/)：[官网](https://make.wordpress.org/core/handbook/coding-standards/css/)
+*   [WordPress的CSS代码标准](http://hao.importnew.com/wordpress-css-coding-standards/)：[官网](https://make.wordpress.org/core/handbook/coding-standards/css/)
 
 ## 风格指导
 
@@ -166,7 +166,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 # 命名习惯和方式
 
 *   Atomic OOBEMITSCSS：[官网](http://www.sitepoint.com/atomic-oobemitscss/)
-*   [BEM](http://hao.jobbole.com/css-naming-bem/)：[官网](https://en.bem.info/)
+*   [BEM](http://hao.importnew.com/css-naming-bem/)：[官网](https://en.bem.info/)
 *   SMACSS：[官网](https://smacss.com/)
 *   Point North：[官网](http://pointnorth.io/#base-browser-styling)
 *   ITCSS：[官网](http://itcss.io/)
@@ -306,7 +306,7 @@ sotayamashita 发起维护的 CSS 资源大全，包括：预处理器、框架�
 
 <h4>中文站点</h4>
 
-* [伯乐在线前端频道](http://web.jobbole.com/)：伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。
+* [伯乐在线前端频道](http://web.importnew.com/)：伯乐前端分享 Web 前端开发，包括 JavaScript、CSS 和 HTML5 开发技术，前端相关的行业动态。
 
 <h4>英文站点</h4>
 
